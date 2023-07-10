@@ -50,7 +50,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>
 </div>
-<br></br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaburaJ&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)<br></br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KaburaJ&theme=dark&background=000000)](https://git.io/streak-stats)
 <br></br>
